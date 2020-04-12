@@ -1,0 +1,81 @@
+body {
+    background-color: rgba(255, 255, 204, 0.3);
+}
+
+.mainContainer{
+    background-color: rgba(255, 255, 204, 0.3);
+}
+
+.header {
+    color: white;
+    margin-top: 2px;
+    text-align: center;
+    font-size: x-large;
+    font-family: cursive;
+    font-weight: 900;
+    font-style: oblique;
+    background: forestgreen;
+    border-bottom: 1px black;
+}
+
+.data-window {
+    text-align: center;
+    font-size: inherit;
+    background-color: burlywood;
+    font-size: medium;
+    font-weight: 900;
+    font-family: cursive;
+}
+
+.todo-caption {
+    padding-top: 1%;
+    text-align: center;
+}
+
+.table-heading {
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    padding: 1px;
+    border-bottom: 1px SOLID;
+}
+
+.data-col {
+    text-align: center;
+    font-family: auto;
+}
+
+
+
+
+
+.card.card-main {
+    padding-top: 4%;
+    padding-right: 25%;
+    padding-left: 20%;
+}
+
+input[type="text"] {
+    width: 100%;
+}
+
+textarea {
+    overflow: auto;
+    resize: vertical;
+    width: 100%;
+}
+.input-style {
+     padding-bottom: 10px;
+ }
+
+ .label-style {
+     font-family: cursive;
+     font-weight: bold;
+ }
+
+ .card-header.custom-header {
+     text-align: center;
+     font-family: cursive;
+     font-size: larger;
+     font-weight: bold;
+ }
